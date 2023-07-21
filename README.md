@@ -3,6 +3,7 @@
 
 ## Intro
 This plugin integrates Schoology into the filesystem of Obsidian. The goal is (eventually) to allow students to never have to leave Obsidian, and can just interact with Schoology from Obsidian. 
+
 *Features*:
 - All Schoology courses are mirrored in the Obsidian file view, each as a folder.
 - Write in Google Docs, Google Slides, and Google Sheets from Obsidian.
@@ -17,4 +18,5 @@ Google Docs, Slides, and Sheets are only currently editable from an embed web ed
 - Cannot center, or left-align text
 - Images cannot easily be moved or resized
 - Paragraph spacing
- 
+
+I have potential ideas for a compromise, but unless a Markdown implementation that I'm unaware of supports those features, not sure how GDoc to Markdown would work.
